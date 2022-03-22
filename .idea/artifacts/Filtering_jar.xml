@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Filtering:jar">
+    <output-path>$USER_HOME$/Desktop/(1.18) server for plugin testing/plugins</output-path>
+    <root id="archive" name="Filtering.jar">
+      <element id="module-output" name="Filtering" />
+      <element id="file-copy" path="$PROJECT_DIR$/src/plugin.yml" />
+    </root>
+  </artifact>
+</component>
